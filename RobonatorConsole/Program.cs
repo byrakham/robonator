@@ -11,6 +11,7 @@ namespace RobonatorConsole
         static void Main(string[] args)
         {
             Console.WriteLine("HEllo ROBONATOR!!");
+            Console.WriteLine("Second commit");
             Console.ReadLine();
         }
     }
