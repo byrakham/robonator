@@ -12,6 +12,8 @@ namespace RobonatorConsole
         {
             Console.WriteLine("HEllo ROBONATOR!!");
             Console.WriteLine("Second commit");
+            Robo robo = new Robo();
+            robo.PrintName();
             Console.ReadLine();
         }
     }
