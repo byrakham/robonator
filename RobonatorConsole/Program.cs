@@ -10,6 +10,8 @@ namespace RobonatorConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HEllo ROBONATOR!!");
+            Console.ReadLine();
         }
     }
 }
