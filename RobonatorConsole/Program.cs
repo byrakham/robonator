@@ -10,6 +10,7 @@ namespace RobonatorConsole
     {
         static void Main(string[] args)
         {
+//hack comment
             Console.WriteLine("HEllo ROBONATOR!!");
             Console.WriteLine("Second commit");
             Robo robo = new Robo();
