@@ -6,7 +6,7 @@ namespace RobonatorConsole
     {
         public void PrintName()
         {
-	    //test comment 5
+	    //test comment 6
             Console.WriteLine("My name is ROBO");
         }
     }
